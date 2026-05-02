@@ -4,9 +4,10 @@ import { useInView } from 'react-intersection-observer'
 import { FiPhone, FiMail, FiMapPin, FiClock, FiExternalLink } from 'react-icons/fi'
 
 const phoneNumbers = [
-  { number: '9696832321', label: 'Primary' },
-  { number: '8881338051', label: 'Secondary' },
-  { number: '7408279458', label: 'Support' },
+  { number: '9696832321', label: 'Sharjeel' },
+  { number: '7408279458', label: 'Avesh' },
+  { number: '8881338051', label: 'Qais' },
+ 
 ]
 
 const ContactSection = () => {
